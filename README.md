@@ -5,6 +5,6 @@
 
 # Instalacja (Do działania potrzebny php)
 
-- Pliki z botem dodaj do katalogu /home/ na vps|dedyku
-- Bota odpalamy komendą: php core.php
-- Jeżeli chcesz by bot działał cały czas (potrzebny pakiet screen) to wpisz: screen -dmS GuildInformator php core.php
+- Pliki z botem dodaj do katalogu /home/ na VPS/DEDYKU
+- Bota odpalamy komendą: php core.php (Znajdując się w folderze z botem)
+- Jeżeli chcesz by bot działał cały czas (potrzebny pakiet screen) to wpisz: screen -dmS GuildInformator php core.php (Znajdując się w folderze z botem)
